@@ -1,6 +1,6 @@
 # Things To Consider
 
-Before posting check out our [New Vaper's Guide](https://github.com/Vaporents/NewVaporsGuide) and the [Vape Consensus](https://github.com/Vaporents/VapeConsensus). They cover a lot of topics like what to do with abv, how vaporizers work, and what vapes are generally recommended by this sub.
+Before posting check out our [New Vaper's Guide](https://github.com/BeyondCombustion/Beginners-Start-Here) and the [Vape Consensus](https://github.com/BeyondCombustion/The-Consensus). They cover a lot of topics like what to do with abv, how vaporizers work, and what vapes are generally recommended by this sub.
 
 Please read this for the suggested structure for purchase help and use the search bar before posting. Your question may have been already answered.
 
