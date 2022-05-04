@@ -29,6 +29,6 @@ Too often we get users writing paragraphs or even giving little information towa
 
 ---
 
-Also, take a peek in the [Vaporents Official Discord](https://discord.gg/DNyeZHfjqg) - you may find people there who can help you out on-the-spot with your queries (or just to have a chat about any old stuff).
+Also, take a peek in the [BeyondCombustion Discord Communities repo](https://github.com/BeyondCombustion/Discord-Communities) - you may find people there who can help you out on-the-spot with your queries (or just to have a chat about any old stuff).
 
 ---
