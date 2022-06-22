@@ -1,11 +1,15 @@
-#### [Click here for info on how you can contribute to BeyondCombustion.net](https://BeyondCombustion.net/How-To-Contribute/)
+#### Want to contribute to BeyondCombustion?
+
+[Click here for info on how you can help contribute to BeyondCombustion.net!](https://BeyondCombustion.net/How-To-Contribute/)
+
+---
 
 
 Before jumping in check out our [New Vaper's Guide](https://BeyondCombustion.net/Beginners-Start-Here) and the [BeyondCombustion's 'The Book'](https://beyondcombustion.net/The-Book-fka-The-Consensus/). They cover a lot of topics like what to do with abv, how vaporizers work, and what vapes are generally recommended by the community.
 
 Please read this for the suggested structure for purchase help and use the search bar submitting a pull request or discussion. Your question may have been already answered.
 
-### Vaporizer Decision Template
+# Vaporizer Decision Template
 
 Too often we get users writing paragraphs or even giving little information towards what they are looking for in a vaporizer. This is a template intended to help new users understand a few priorities they may want to consider for their vape purchase. It is also meant to help the existing vaporents quickly understand your needs to minimalize questions and wasted time.
 
