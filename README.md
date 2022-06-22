@@ -1,9 +1,9 @@
 # Things To Consider
 
-#### [Click here for info on how you can contribute to BeyondCombustion.net](https://github.com/BeyondCombustion/How-To-Contribute/blob/main/README.md)
+#### [Click here for info on how you can contribute to BeyondCombustion.net](https://BeyondCombustion.net/How-To-Contribute/)
 
 
-Before jumping in check out our [New Vaper's Guide](https://github.com/BeyondCombustion/Beginners-Start-Here) and the [Vape Consensus](https://github.com/BeyondCombustion/The-Consensus). They cover a lot of topics like what to do with abv, how vaporizers work, and what vapes are generally recommended by the community.
+Before jumping in check out our [New Vaper's Guide](https://BeyondCombustion.net/Beginners-Start-Here) and the [BeyondCombustion's 'The Book'](https://beyondcombustion.net/The-Book-fka-The-Consensus/). They cover a lot of topics like what to do with abv, how vaporizers work, and what vapes are generally recommended by the community.
 
 Please read this for the suggested structure for purchase help and use the search bar submitting a pull request or discussion. Your question may have been already answered.
 
@@ -29,6 +29,18 @@ Too often we get users writing paragraphs or even giving little information towa
 
 ---
 
-Also, take a peek in the [BeyondCombustion Discord Communities repo](https://github.com/BeyondCombustion/Discord-Communities) - you may find people there who can help you out on-the-spot with your queries (or just to have a chat about any old stuff).
+Also, take a peek in the [BeyondCombustion Discord Communities repo](https://BeyondCombustion.net/Discord-Communities) - you may find people there who can help you out on-the-spot with your queries (or just to have a chat about any old stuff).
 
 ---
+
+## Navigation
+
+### [Return to BeyondCombustion.net](https://www.beyondcombustion.net/)
+
+### [Jump to 'The Book' and The 'List'](https://www.beyondcombustion.net/The-Book-fka-The-Consensus/)
+
+### [Review the Glossary](https://BeyondCombustion.net/Glossary/)
+
+### [Go to The Beginners Guide](https://BeyondCombustion.net/Beginners-Start-Here/)
+
+### [Visit BeyondCombustion's Businesses Repository](https://BeyondCombustion.net/Businesses/)
